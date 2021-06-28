@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Clone this project
 
-`git clone https://gitlab.com/amphora1/aaxaa.git`
+`git clone https://github.com/PolRibas/abb-frontend-assignment.git`
 
 - [Install NodeJS](https://nodejs.org/en/) on your computer.
 
